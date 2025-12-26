@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="hint_search">Search Notes...</string>
+    <string name="note_title">My Notes</string>
+    <string name="content_des">Add Note</string>
+    <string name="hint_title">Note title here</string>
+    <string name="hint_msg">Your Notes here</string>
+    <string name="edit_button">Edit Note</string>
+    <string name="delete_button">Delete Note</string>
+
+</resources>
